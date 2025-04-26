@@ -3,9 +3,8 @@
 ---
 
 ## Project Overview
-This project performs **Exploratory Data Analysis (EDA)** on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn**for cleaning, visualization, and analysis. 
+This project performs **Exploratory Data Analysis (EDA)** on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn** for cleaning, visualization, and analysis. 
 
-![](https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
 
 ---
 
@@ -86,23 +85,6 @@ The dataset contains **20,765 entries and 22 features**, including:
 5. **Host Behavior**:  
    - Some hosts manage **multiple listings**, indicating a trend toward professional hosting.
 
----
-
-## How to Run This Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Run the **Jupyter notebook** or **Python script**:
-   ```bash
-   jupyter notebook day23_airbnb_eda.ipynb
-   ```
-
----
 
 ## Recommendations
 - **For Guests**: 
@@ -113,12 +95,6 @@ The dataset contains **20,765 entries and 22 features**, including:
    - Improve **availability** and **review response rates** to attract more bookings.
    - Manage pricing effectively to compete within the borough's market.
 
----
-
-## Future Work
-- Use **machine learning** to predict prices based on room type and location.
-- Perform **sentiment analysis** on reviews to better understand guest experiences.
-- Create an **interactive dashboard** using Plotly or Tableau for live monitoring.
 
 ---
 
@@ -127,15 +103,3 @@ This project offers valuable insights into the New York Airbnb market, helping b
 
 ---
 
-## License
-This project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code.
-
----
-
-## Contact
-For any queries, feel free to reach out at:
-- **YouTube**: [@Zero_Analyst](https://www.youtube.com/@Zero_Analyst)  
-- **GitHub**: [Your GitHub](https://github.com/your-repo)  
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-
----
